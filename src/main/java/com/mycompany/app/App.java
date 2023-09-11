@@ -16,6 +16,7 @@ public class App {
     public String getMessage() {
         System.out.println("Hello");
         System.out.println("Hello12");
+        System.out.println("Hello trigger the build");
         return MESSAGE;
     }
 }
