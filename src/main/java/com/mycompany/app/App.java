@@ -18,6 +18,7 @@ public class App {
         System.out.println("Hello12");
         System.out.println("Hello trigger the build");
         System.out.println("Hello trigger the build 2");
+        System.out.println("Hello trigger the build 2");        
         return MESSAGE;
     }
 }
